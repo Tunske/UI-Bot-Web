@@ -149,8 +149,8 @@ export default {
       console.log(google);
       // const sydney = new google.maps.LatLng(-33.867, 151.195);
       const defaultBounds = new google.maps.LatLngBounds(
-        new google.maps.LatLng(9.081999, 8.675277),
-        new google.maps.LatLng(9.091999, 8.775277),
+        new google.maps.LatLng(6.374472, 2.452000),
+        new google.maps.LatLng(6.374472, 2.452000),
       );
 
       const options = {
